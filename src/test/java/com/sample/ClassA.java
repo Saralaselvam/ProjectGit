@@ -21,5 +21,10 @@ public class ClassA {
 	public void Surta() {
 		System.out.println("Surya");
 	}
+	public void kalai() {
+		System.out.println("Kalai");
+
+	}
+	
 	
 }
