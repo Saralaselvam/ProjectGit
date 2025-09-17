@@ -14,5 +14,12 @@ public class ClassA {
 		System.out.println("Harshitha");
 
 	}
-
+	public void ThanviSir() {
+		System.out.println("ThanviSri");
+	
+	}
+	public void Surta() {
+		System.out.println("Surya");
+	}
+	
 }
