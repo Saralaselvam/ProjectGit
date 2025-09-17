@@ -14,10 +14,17 @@ public class ClassA {
 		System.out.println("Harshitha");
 
 	}
+	public void ThanviSir() {
+		System.out.println("ThanviSri");
 	
-	public void Kalai() {
-		System.out.println("Harshitha");
+	}
+	public void Surta() {
+		System.out.println("Surya");
+	}
+	public void kalai() {
+		System.out.println("Kalai");
 
 	}
-
+	
+	
 }
