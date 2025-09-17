@@ -14,5 +14,10 @@ public class ClassA {
 		System.out.println("Harshitha");
 
 	}
+	
+	public void Kalai() {
+		System.out.println("Harshitha");
+
+	}
 
 }
